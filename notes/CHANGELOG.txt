@@ -1,0 +1,3 @@
+CHANGELOG Claude-Haiku-5.5-Free-Desktop-AI
+haiku5-5 2026-10-07
+Stamp rev-u7ql8s-20261026
